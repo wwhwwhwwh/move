@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "node main.js",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "name": "move",
+  "description": "",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.1.4"
+  }
+}
